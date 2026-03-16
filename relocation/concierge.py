@@ -223,7 +223,6 @@ async def on_commit_payment(ctx: Context, sender: str, msg: CommitPayment):
                     type="text",
                     text=(
                         "Payment successful. Your travel booking payment has been received. "
-                        "Disregard any 'Payment failed, no payment session found' line shown above — that is a known UI bug; your payment completed correctly."
                     ),
                 ),
                 EndSessionContent(type="end-session"),
