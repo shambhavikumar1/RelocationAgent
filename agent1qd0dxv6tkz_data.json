@@ -1,0 +1,184 @@
+{
+    "relocation_agent1qw9zcsajm83x4hhxxf3xhvjayfr77mdewlw0a55d5lrdr3nh5ty96gqzadt": {
+        "last_data": {
+            "policy": {
+                "eligible": true,
+                "summary": "Eligible under current relocation policy.",
+                "constraints": [],
+                "details": {
+                    "tenure_ok": true,
+                    "role_ok": true,
+                    "distance_ok": true,
+                    "allowance_within_limit": true,
+                    "approval_required": false
+                }
+            },
+            "budget": {
+                "total_eur": 6500.0,
+                "summary": "Estimated total: €6,500.00 for relocation to Berlin (origin: N/A). Breakdown: moving, travel, temp housing, settling.",
+                "currency": "EUR",
+                "breakdown": [
+                    {
+                        "category": "Moving / household goods",
+                        "amount_eur": 2500.0,
+                        "notes": "Based on family size and typical volume"
+                    },
+                    {
+                        "category": "Travel to destination",
+                        "amount_eur": 400.0,
+                        "notes": "Flights/transport for employee and dependents"
+                    },
+                    {
+                        "category": "Temporary housing",
+                        "amount_eur": 1800.0,
+                        "notes": "4 weeks at ~€450/week"
+                    },
+                    {
+                        "category": "Settling allowance",
+                        "amount_eur": 1800.0,
+                        "notes": "One-time settling-in allowance"
+                    }
+                ]
+            },
+            "neighborhoods": [
+                {
+                    "name": "Karlshorst",
+                    "area": "Suburb",
+                    "city": "Berlin",
+                    "score": 7.5,
+                    "highlights": [
+                        "Restaurants",
+                        "Healthcare",
+                        "Schools",
+                        "Cafes"
+                    ],
+                    "avg_rent_1bed_eur": null
+                },
+                {
+                    "name": "Schmöckwitz",
+                    "area": "Suburb",
+                    "city": "Berlin",
+                    "score": 7.5,
+                    "highlights": [
+                        "Restaurants",
+                        "Healthcare",
+                        "Cafes",
+                        "Community"
+                    ],
+                    "avg_rent_1bed_eur": null
+                },
+                {
+                    "name": "Adlershof",
+                    "area": "Suburb",
+                    "city": "Berlin",
+                    "score": 7.5,
+                    "highlights": [
+                        "Restaurants",
+                        "Healthcare",
+                        "Cafes",
+                        "Schools"
+                    ],
+                    "avg_rent_1bed_eur": null
+                },
+                {
+                    "name": "Bohnsdorf",
+                    "area": "Suburb",
+                    "city": "Berlin",
+                    "score": 7.5,
+                    "highlights": [
+                        "Restaurants",
+                        "Healthcare",
+                        "Cafes",
+                        "Community"
+                    ],
+                    "avg_rent_1bed_eur": null
+                },
+                {
+                    "name": "Schöneberg",
+                    "area": "Suburb",
+                    "city": "Berlin",
+                    "score": 7.5,
+                    "highlights": [
+                        "Restaurants",
+                        "Healthcare",
+                        "Cafes",
+                        "Nightlife"
+                    ],
+                    "avg_rent_1bed_eur": null
+                }
+            ],
+            "timeline": {
+                "summary": "Relocation timeline: 11 weeks from start (2026-03-10). Phases: policy & approval → moving → travel & temp housing (4 weeks) → settling & move-in.",
+                "total_weeks": 11,
+                "start_date": "2026-03-10",
+                "phases": [
+                    {
+                        "name": "Policy & approval",
+                        "start_week": 0,
+                        "end_week": 2,
+                        "tasks": [
+                            "Submit relocation request and documents",
+                            "Policy validation and manager approval",
+                            "Budget confirmation and allowance approval"
+                        ]
+                    },
+                    {
+                        "name": "Moving arrangements",
+                        "start_week": 2,
+                        "end_week": 5,
+                        "tasks": [
+                            "Select moving company and get quotes",
+                            "Schedule packing and pickup",
+                            "Coordinate with landlord for handover"
+                        ]
+                    },
+                    {
+                        "name": "Travel & temporary housing",
+                        "start_week": 5,
+                        "end_week": 9,
+                        "tasks": [
+                            "Book travel for employee and family",
+                            "Check into temporary accommodation",
+                            "Register address and local admin"
+                        ]
+                    },
+                    {
+                        "name": "Settling & move-in",
+                        "start_week": 9,
+                        "end_week": 11,
+                        "tasks": [
+                            "Household goods delivery",
+                            "Permanent housing move-in",
+                            "Final settling allowance and closure"
+                        ]
+                    }
+                ]
+            },
+            "params_used": {
+                "destination_city": "Berlin",
+                "origin_city": "",
+                "family_size": 1,
+                "tenure_months": 12,
+                "role": "full_time",
+                "distance_km": 200,
+                "requested_allowance_eur": 5000,
+                "include_temp_housing_weeks": 4,
+                "currency": "EUR",
+                "target_move_date": null
+            }
+        },
+        "last_params": {
+            "destination_city": "Berlin",
+            "origin_city": "",
+            "family_size": 1,
+            "tenure_months": 12,
+            "role": "full_time",
+            "distance_km": 200,
+            "requested_allowance_eur": 5000,
+            "include_temp_housing_weeks": 4,
+            "currency": "EUR",
+            "target_move_date": null
+        }
+    },
+    "relocation_agent1qdclw3rdcuuupw9a77ps997tkp2sgpn9sduwt0xq3wfgrefhj6yk7unt3tq": {}
+}
